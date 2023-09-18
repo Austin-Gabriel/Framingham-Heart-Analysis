@@ -14,7 +14,7 @@ https://github.com/Austin-Gabriel/Framingham-Heart-Analysis
 
 2. **Install Dependencies:**
 pip install -r requirements.txt
-
+ 
 3. **Run the Jupyter Notebook:**
 - Open the `analysis.ipynb` notebook and run the cells in sequential order.
 
