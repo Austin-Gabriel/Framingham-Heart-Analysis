@@ -16,7 +16,7 @@ https://github.com/Austin-Gabriel/Framingham-Heart-Analysis
 pip install -r requirements.txt
  
 3. **Run the Jupyter Notebook:**
-- Open the `analysis.ipynb` notebook and run the cells in sequential order.
+- Open the `Machine Learning Project.ipynb` notebook and run the cells in sequential order.
 
 4. **Explore the Results:**
 - Review the generated visualizations and analyses in the notebook to gain insights into the Framingham Heart Study data.
